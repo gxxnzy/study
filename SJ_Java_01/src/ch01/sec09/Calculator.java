@@ -7,7 +7,7 @@ public class Calculator {
 		int y = 2;
 		int result = x+y;
 		System.out.println(result);
-		System.out.println("ggag");
+		System.out.println("ggaga");
 	}
 
 }
