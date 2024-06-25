@@ -26,7 +26,21 @@ public class ScoreGrade {
 		else
 			System.out.println(" 학점=F");
 
+		switch((mean%80)/5) {
+		case 0:
+			System.out.println(" 학점=B");
+			break;
+		case 1:
+			System.out.println(" 학점=B+");
+			break;
+		case 2:
+			System.out.println(" 학점=A");
+			break;
+		case 3:
+			System.out.println(" 학점=A+");
+			break;
 
+		}
 	}
 
 }
