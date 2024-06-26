@@ -1,4 +1,4 @@
-package sec07;
+package Ch02.sec07;
 
 public class PromotionExample {
 

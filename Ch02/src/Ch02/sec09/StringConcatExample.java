@@ -1,4 +1,4 @@
-package sec09;
+package Ch02.sec09;
 
 public class StringConcatExample {
 

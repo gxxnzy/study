@@ -1,4 +1,4 @@
-package sec12;
+package Ch02.sec12;
 
 public class PrintfExample {
 

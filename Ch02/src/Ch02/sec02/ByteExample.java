@@ -1,4 +1,4 @@
-package sec02;
+package Ch02.sec02;
 
 public class ByteExample {
 

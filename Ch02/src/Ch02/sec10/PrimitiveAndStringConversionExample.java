@@ -1,4 +1,4 @@
-package sec10;
+package Ch02.sec10;
 
 public class PrimitiveAndStringConversionExample {
 
