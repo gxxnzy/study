@@ -1,11 +1,11 @@
-package Ch06.sec09;
+package Ch06.sec10.exam02;
 
-public class CalculatorConstructor {
-
+public class CalculatorStatic {
+	
 	int a;
 	int b;
 	
-	public CalculatorConstructor(int a, int b) {
+	public CalculatorStatic(int a, int b) {
 		this.a = a;
 		this.b = b;
 	}
@@ -37,5 +37,4 @@ public class CalculatorConstructor {
 		System.out.println("필드 초기화 완료");
 		
 	}
-	
 }
