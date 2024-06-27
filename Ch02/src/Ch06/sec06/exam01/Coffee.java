@@ -6,6 +6,13 @@ public class Coffee {
 	int price = 3000;
 	String requirement = "샷추가";
 	
+	public Coffee() {}
+
+	public Coffee(String coffeeType, int price) {
+		this.coffeeType = coffeeType;
+		this.price = price;
+	}
+
 	void printInfo() {
 		System.out.println("커피=" + coffeeType);
 		System.out.println("가격=" + price);
