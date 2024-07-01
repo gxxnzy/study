@@ -14,8 +14,8 @@ public class SongApp {
 		System.out.println("==== Singer Info ====");
 		String title = "밤편지";
 		String releaseDate = "2019.03.24";
-		Song song = new Song(title,releaseDate,singer);
-		song.printInfo();
+		//Song song = new Song(title,singer,releaseDate);
+		//song.printInfo();
 
 	}
 
