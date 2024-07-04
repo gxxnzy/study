@@ -3,8 +3,8 @@ package ch07.sec10.exam05;
 public class MapleStory extends Game{
 
 	public MapleStory(String id) {
-		super(id);
-		System.out.println("["+id+"] 로그인");
+		super(id,"메이플스토리");
+
 		System.out.println();
 	}
 
