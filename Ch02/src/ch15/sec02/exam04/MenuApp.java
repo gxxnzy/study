@@ -7,7 +7,7 @@ public class MenuApp {
 
 	public static void main(String[] args) {
 		
-		ArrayList<Menu> menuList = new ArrayList<Mikenu>();
+		ArrayList<Menu> menuList = new ArrayList<Menu>();
 		
 		menuList.add(new Coffee("아메리카노",3000,"에티오피아 예가체프"));
 		menuList.add(new Coffee("카푸치노",3500,"케냐 오클랜드"));
