@@ -23,7 +23,7 @@ public class ClientApp {
 		PrintWriter pw = null;
 		try {
 
-			String serverIp = "192.168.240.15";
+			String serverIp = "192.168.240.5";
 			int serverPort = 8000;
 			socket = new Socket(serverIp, serverPort);
 			logTime("Socket Open");
